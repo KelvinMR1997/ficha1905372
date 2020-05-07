@@ -1,4 +1,4 @@
-![](https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_866,h_463/https://www.r2docuo.com/es/wp-content/uploads/sites/2/2018/10/wor-s3.jpg)
+![Imagen wokflow](https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_866,h_463/https://www.r2docuo.com/es/wp-content/uploads/sites/2/2018/10/wor-s3.jpg)
 
 
 # Workflow  o flujo de trabajo
