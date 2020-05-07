@@ -1,4 +1,4 @@
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.r2docuo.com%2Fes%2Fworkflow&psig=AOvVaw1BXHowa1BORAiinmndjWaA&ust=1588980610963000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjKm5v0oukCFQAAAAAdAAAAABAr)
+![imagen](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.r2docuo.com%2Fes%2Fworkflow&psig=AOvVaw1BXHowa1BORAiinmndjWaA&ust=1588980610963000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjKm5v0oukCFQAAAAAdAAAAABAr)
 
 
 # Workflow  o flujo de trabajo
